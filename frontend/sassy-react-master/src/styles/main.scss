@@ -1,0 +1,10 @@
+$dark: #000;
+$light: #fff;
+
+body {
+    background-color: $dark;
+}
+
+h1, h2, h3, p {
+    color: $light;
+}
