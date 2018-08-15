@@ -17,10 +17,10 @@ class Navbar extends Component {
                         <Link className="nav-link" to="/">Home <span className="sr-only">(current)</span></Link>
                         </li>
                         <li className="nav-item">
-                        <Link className="nav-link" to="/Features">Features</Link>
+                        <Link className="nav-link" to="/about">About</Link>
                         </li>
                         <li className="nav-item">
-                        <Link className="nav-link" to="/">Pricing</Link>
+                        <Link className="nav-link" to="/pricing">Pricing</Link>
                         </li>
                         <li className="nav-item">
                         <Link className="nav-link disabled" to="/">Disabled</Link>
